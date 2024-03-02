@@ -6,7 +6,7 @@
 
 - Install and  setup the backend server
  
-[https://github.com/Codebrahma/RestaurantApp-Express](https://github.com/Codebrahma/RestaurantApp-Express)
+[https://github.com/BTC415/Restraunt-App-FE](https://github.com/BTC415/Restraunt-App-FE.git)
 
 ### Installation
 
